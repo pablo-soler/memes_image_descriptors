@@ -1,10 +1,14 @@
 
-	En la carpeta mpeg7fex se encuentra la carpeta input con varias imagenes.
-
- 	La imagen nombrada con 000.meme.jpg será la que funcione como input del programa
+	#DESCRIPTION
+	This is a practice where image descriptors are used to detect whether an input image is a meme or not. Made in a similar way to how Pinterest displays similar images
 	
-	el archivo index.py es el que se debe ejecutar en python con la ruta de la carpeta
+	
+The input folder has several images.
 
-	posteriormente puedes abrir el archivo showList.html 
+The image named with 000.meme.jpg will be the one that works as input to the program
 
-	Debes de recargar la pagina cuando ejecutes con cambios
+index.py file is the one to be run in python with the folder path
+
+later you can open the showList.html file
+
+You must reload the page when you execute with changes
