@@ -1,6 +1,6 @@
 
-	#DESCRIPTION
-	This is a practice where image descriptors are used to detect whether an input image is a meme or not. Made in a similar way to how Pinterest displays similar images
+#DESCRIPTION
+This is a practice where image descriptors are used to detect whether an input image is a meme or not. Made in a similar way to how Pinterest displays similar images
 	
 	
 The input folder has several images.
