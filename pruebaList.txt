@@ -1,0 +1,3 @@
+prueba/rojo.jpg
+prueba/verde.jpg
+prueba/azul.jpg
